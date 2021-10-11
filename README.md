@@ -6,6 +6,7 @@ Read Me Content
 #Repository for team-curie of the Thanos 2.0 HackBio internship.
 #Team members include 
   #Alaa
+  #FrancisOye
   #Echelon
   #Jespi
   #Modinat
